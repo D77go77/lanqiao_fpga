@@ -1,0 +1,8 @@
+set_property IOSTANDARD LVCMOS33 [get_ports buzz]
+set_property IOSTANDARD LVCMOS33 [get_ports clk]
+set_property IOSTANDARD LVCMOS33 [get_ports rst]
+set_property IOSTANDARD LVCMOS33 [get_ports S1]
+set_property PACKAGE_PIN L5 [get_ports buzz]
+set_property PACKAGE_PIN G11 [get_ports clk]
+set_property PACKAGE_PIN B6 [get_ports rst]
+set_property PACKAGE_PIN M5 [get_ports S1]
