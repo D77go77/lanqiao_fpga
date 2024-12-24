@@ -1,2 +1,2 @@
 # lanqiao_fpga
-A test case about Blue Bridge Cup fpga design and development
+A test case about Lanqiao Cup fpga design and development
