@@ -1,0 +1,14 @@
+===================================
+Configuration Memory information
+===================================
+File Format        MCS
+Interface          SPIX1
+Size               16M
+Start Address      0x00000000
+End Address        0x00FFFFFF
+Checksum           0xF6D958D6
+Fill Value         0xFF
+
+Addr1         Addr2         Date                    File(s)                                                                                                                       Checksum
+0x00000000    0x000838DB    Jan 16 19:38:06 2025    D:/01_my_document/desktop/01_contest_about/07_FPGA_files/CT137Xilinx/my_code/011_ds1302/prj/011_ds1302.runs/impl_1/top.bit    0x0009FBFA
+File Checksum Total                                                                                                                                                               0x0009FBFA
